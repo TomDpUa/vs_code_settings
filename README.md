@@ -4,7 +4,7 @@
 
 ## Состав
 
-Файл `.vscode/settings.json` включает:
+Файл `settings.json` включает:
 
 - Тему оформления: **Bluloco Dark**
 - Иконки: **Material Icon Theme**
