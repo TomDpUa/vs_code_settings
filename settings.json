@@ -1,15 +1,15 @@
 {
   "workbench.colorTheme": "Bluloco Dark",
-  "window.zoomLevel": 6,
+  "window.zoomLevel": 0,
   "workbench.startupEditor": "none",
   "workbench.iconTheme": "material-icon-theme",
   "[python]": {
     "editor.formatOnType": true
   },
   "workbench.layoutControl.enabled": false,
-  "editor.fontSize": 20,
+  "editor.fontSize": 16,
   "editor.letterSpacing": 0.5,
-  "terminal.integrated.fontSize": 18,
+  "terminal.integrated.fontSize": 14,
   "editor.minimap.enabled": false,
   "editor.hover.delay": 1500,
   "editor.glyphMargin": false,
